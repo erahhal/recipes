@@ -1,0 +1,61 @@
+name: Bean Jelly
+region: Yunnan
+source:
+  url: https://www.nicolemones.com/food-lovers/recipes/recipes-from-yunnan/
+components:
+  - name: jelly
+    ingredients:
+      - item: water
+        amount: 2 3/4
+        unit: cup
+      - item: mung bean starch
+        amount: 1/2
+        unit: cup
+      - item: salt
+        amount: 1/2
+        unit: tsp
+    steps:
+      - Bring water, bean starch, and salt to a boil in a 2-3 qt heavy saucepan, then boil, over moderate heat, stirring constantly, until it turns thick and translucent.
+      - Transfer to an 8″ square baking dish (or other mold of your choice) and cool to room temperature.
+      - Cover with plastic wrap and chill until firm, about 2 hours or up to one day.
+  - name: sauce
+    ingredients:
+      - item: soy sauce
+        amount: 2
+        unit: Tbsp
+      - item: Chinese black vinegar
+        amount: 1
+        unit: Tbsp
+      - item: sugar
+        amount: 2
+        unit: tsp
+      - item: Sichaun pepper oil
+        ref: ../sichuan/sichuan_pepper_oil.yaml
+        amount: 2
+        unit: tsp
+      - item: red-chile oil
+        amount: 1
+        unit: tsp
+      - item: rasp-grated ginger
+        amount: 1
+        unit: tsp
+      - item: rasp-grated garlic
+        amount: 1/2
+        unit: tsp
+      - item: large scallions (white and pale green part) cut into shreds
+        amount: 3
+        unit: piece
+      - item: daikon, peeled and cut into matchsticks
+        amount: 1
+        unit: 3-inch piece
+      - item: chopped scallion green tops
+        garnish: true
+      - item: coarse-chopped roasted peanuts
+        garnish: true
+    steps:
+    - Mix together sauce ingredients.
+steps:
+  - Run thin knife around side of jelly to loosen, unmold on cutting board.
+  - Cut into strip shapes.
+  - Gently combine with sauce, scallions and daikon;
+  - top with sliced scallion tops and peanuts.

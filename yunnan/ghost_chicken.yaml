@@ -1,0 +1,46 @@
+name: Ghost Chicken
+region: Southern Yunnan
+restaurant: Baita Daiwei Ting, Kunming
+ethnicity: Dai
+source:
+  url: https://www.nicolemones.com/food-lovers/recipes/recipes-from-yunnan/
+ingredients:
+  - item: chicken breast
+    amount: 2
+    unit: piece
+    amount_alt: 1.5
+    unit_alt: lbs
+  - item: lime juice
+    amount: 1.5
+    unit: tsp
+  - item: chile bean paste with garlic
+    brand: Lan Chi
+    amount: 1
+    unit: tsp
+  - item: red-chili oil
+    amount: 1
+    unit: tsp
+  - item: Sichuan pepper oil
+    ref: ../sichuan/sichuan_pepper_oil.yaml
+    amount: 1
+    unit: tsp
+  - item: rasp-grated fresh ginger
+    amount: 1
+    unit: tsp
+  - item: rasp-grated garlic
+    amount: 1/2
+    unit: tsp
+  - item: minced fresh mild long red chile
+    amount: 1/2
+    unit: tsp
+  - item: salt
+    amount: 1/2
+    unit: tsp
+  - item: cilantro sprigs
+    amount: 1
+    unit: cup
+steps:
+  - Steam chicken.
+  - When cool enough, coarsely shred and discard skin and bones.
+  - Stir together all other ingredients except salt, adding up to 2 Tbsp steaming liquid from chicken if it seems needed.
+  - Dress the chicken, add the salt gradually to taste, and toss with cilantro sprigs just before serving.
