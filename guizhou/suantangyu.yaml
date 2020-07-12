@@ -1,0 +1,127 @@
+name: Suan Tang Yu (Sour Fish Soup)
+region: Guizhou
+source:
+  url: https://learnhowtochooseyourchinesefood.wordpress.com/2018/10/16/sour%EF%BD%9E
+  url2: https://www.xiachufang.com/recipe/103329646/
+first_attempt:
+  ingredients:
+    10 organic on-the-vine tomatoes (1.36 kg), chopped
+    1 cup minced ginger
+    1 cup minced garlic
+    10-12 red fresno peppers, chopped, maybe 1/4 kg
+    2 Tbsp salt
+    2 Tbsp sugar
+    3 Tbsp glutinous rice flour
+    4 Tbsp baijiu
+    1/2 bottle rice cooking wine, or just enough to cover the top in the jar
+    big pickling jar steamed to sterilize
+components:
+  - name: pickled soup base
+    ingredients:
+      - item: tomatoes
+        amount: 5
+        unit: Kg
+      - item: ginger
+        amount: 500
+        unit: g
+      - item: garlic
+        amount: 250
+        unit: g
+      - item: red pepper
+        amount: 1
+        unit: Kg
+      - item: salt
+        amount: 5
+        unit: g
+        amount_alt: 0.8
+        unit_alt: tsp
+      - item: glutinous rice flour
+        amount: 100
+        unit: g
+      - item: white chinese cooking wine
+        amount: 250
+        unit: g
+    steps:
+      - Place together in a pickle jar
+      - Fill the pickle jar with water
+      - Seal and store in a cool place for 15 to 30 days
+      - Blend in a blender
+  - name: fresh soup base
+    ingredients:
+      - item: tomatoes
+        amount: 5
+        unit: Kg
+    steps:
+      - chop tomatoes into 1/2 inch pieces
+      - throw into big pot
+      - bring to a boil
+      - bring down to a low simmer, 30-60 minutes
+      - filter into a bowl to get rid of skins
+ingredients:
+  - item: snakehead fish
+    amount: 1.5-2
+    unit: lbs
+  - item: firm tofu
+    amount: 300
+    unit: g
+  - item: sliced bamboo shoot
+    amount: 300
+    unit: g
+  - item: shiitake mushroom
+    amount: 200
+    unit: g
+  - item: peeled and sliced ginger
+    amount: 1
+    unit: 2 inch piece
+    amount_alt: 50
+    unit_alt: grams
+  - item: green onion
+    amount: 4
+    unit: stems
+  - item: peeled and sliced garlic
+    amount: 2
+    unit: large cloves
+  - item: sliced small red chili
+    amount: 5
+    unit: pieces
+  - item: sliced medium-small green chili
+    amount: 1
+    unit: pieces
+  - item: star anise
+    amount: 3
+    unit: pieces
+  - item: bay leaf
+    amount: 4
+    unit: leaves
+  - item: mint
+    amount: 1
+    unit: handful
+  - item: cilantro
+    amount: 1
+    unit: handful
+    amount_alt: 25
+    unit_alt: grams
+  - item: vegetable oil
+    amount: 1/4
+    unit: cup
+    amount_alt: 50
+    unit_alt: g
+  - item: cooking wine
+    amount: 1/4
+    unit: cup
+    amount_alt: 50
+    unit_alt: g
+  - item: salt
+    amount: 5
+    unit: g
+  - item: chicken boullion
+    amount: 5
+    unit: g
+steps:
+  - Optional: chop fish into large pieces
+  - Put oil into large pot and heat
+  - Put all ingredients in except soup base, mint, and cilantro
+  - Stir fry for a few minutes
+  - Pour soup in, then heat until it boils
+  - Turn down fire, the put in mint and cilantro
+  - Cook 2 minutes

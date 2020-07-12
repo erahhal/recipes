@@ -1,0 +1,24 @@
+name: Pineapple Passionfruit Margarita
+source:
+  url: https://www.foodnetwork.com/recipes/food-network-kitchen/pineapplepassion-fruit-margarita-8579625
+ingredients:
+  - item: reposado tequila
+    amount: 1.5
+    unit: Oz
+  - item: pineapple juice
+    amount: 1.5
+    unit: Oz
+  - item: passionfruit puree
+    amount: 1
+    unit: Oz
+  - item: Cointreau or other orange-flavored liquor
+    amount: 0.5
+    unit: Oz
+  - item: lime juice
+    amount: 0.25
+    unit: Oz
+steps:
+  - Put all ingredients in shaker with ice
+  - Shake to chill
+  - Strain into a short glass filled with ice
+  - Garnish with a pineapple wedge
