@@ -1,51 +1,9 @@
-name: Suan Tang Yu (Sour Fish Soup)
+name: Fresh Suan Tang Yu (Sour Fish Soup)
 region: Guizhou
 source:
   url: https://learnhowtochooseyourchinesefood.wordpress.com/2018/10/16/sour%EF%BD%9E
   url2: https://www.xiachufang.com/recipe/103329646/
-first_attempt:
-  ingredients:
-    10 organic on-the-vine tomatoes (1.36 kg), chopped
-    1 cup minced ginger
-    1 cup minced garlic
-    10-12 red fresno peppers, chopped, maybe 1/4 kg
-    2 Tbsp salt
-    2 Tbsp sugar
-    3 Tbsp glutinous rice flour
-    4 Tbsp baijiu
-    1/2 bottle rice cooking wine, or just enough to cover the top in the jar
-    big pickling jar steamed to sterilize
 components:
-  - name: pickled soup base
-    ingredients:
-      - item: tomatoes
-        amount: 5
-        unit: Kg
-      - item: ginger
-        amount: 500
-        unit: g
-      - item: garlic
-        amount: 250
-        unit: g
-      - item: red pepper
-        amount: 1
-        unit: Kg
-      - item: salt
-        amount: 5
-        unit: g
-        amount_alt: 0.8
-        unit_alt: tsp
-      - item: glutinous rice flour
-        amount: 100
-        unit: g
-      - item: white chinese cooking wine
-        amount: 250
-        unit: g
-    steps:
-      - Place together in a pickle jar
-      - Fill the pickle jar with water
-      - Seal and store in a cool place for 15 to 30 days
-      - Blend in a blender
   - name: fresh soup base
     ingredients:
       - item: tomatoes
