@@ -1,0 +1,117 @@
+name: Fresh Berry Vanilla Layered Cake
+category: dessert
+region: American
+prep_time: 00:30:00
+cook_time: 00:26:00
+yield: 12-14
+yield_unit: slices
+method: oven
+source:
+  url: https://www.lifeloveandsugar.com/fresh-berry-vanilla-layered-cake
+components:
+  - name: Cake
+    ingredients:
+      - item: sugar
+        amount: 1.5
+        unit: cups
+      - item: salted butter (or add 1/4 tsp salt to 1/2 cup unsalted butter)
+        amount: 3/4
+        unit: cup
+      - item: vanilla extract
+        amount: 4
+        unit: tsp
+      - item: sour cream
+        amount: 3/4
+        unit: cup
+      - item: large egg whites
+        amount: 6
+      - item: all purpose flour
+        amount: 2.5
+        unit: cups
+      - item: baking powder
+        amount: 4
+        unit: tsp
+      - item: milk
+        amount: 3/4
+        unit: cup
+    steps:
+      - Preheat oven to 350 degrees. Prepare three 8 inch cake pans by placing parchment paper circles in the bottom of the pans and greasing the sides.
+      - Cream butter and sugar together until light in color and fluffy, about 3 minutes.
+      - Add sour cream and vanilla extract and mix until well combined.
+      - Add egg whites in two batches, beating until well combined after each addition.
+      - Combine flour and baking powder in another bowl.
+      - Alternating adding dry ingredients and milk to batter, beginning and ending with the dry ingredients. Beat until smooth after each addition. There should be three additions of dry ingredients and two additions of the milk.
+      - Divide cake batter evenly between the three cake pans and bake for 23-26 minutes, or until a toothpick inserted comes out with a few crumbs.
+      - Remove cakes from oven and allow to cool for 3-5 minutes, then remove to a cooling rack to finish cooling.
+  - name: Strawberry Puree
+    yield: 1/2
+    yield_unit: cup
+    ingredients:
+      - item: medium-large strawberries
+        amount: 6
+      - item: water
+        amount: 5
+        unit: Tbsp
+      - item: sugar
+        amount: 4
+        unit: tsp
+    steps:
+      - Add strawberries separately to a food processor and pulse until smooth.
+      - Add the water and sugar to the strawberry puree and stir until combined.
+      - Set aside in a bowl.
+  - name: Blueberry Puree
+    yield: 1/4
+    yield_unit: cup
+    ingredients:
+      - item: blueberries
+        amount: 2/3
+        unit: cup
+      - item: water
+        amount: 2.5
+        unit: Tbsp
+      - item: sugar
+        amount: 1
+        unit: tsp
+    steps:
+      - Add blueberries to a food processor and pulse until smooth.
+      - Add the water and sugar to the blueberry puree and stir until combined.
+      - Set aside in a bowl.
+  - name: Whipped cream
+    yield_unit: cup
+    ingredients:
+      - item: heavy whipping cream
+        amount: 2.5
+        unit: cup
+      - item: powdered sugar
+        amount: 1.25
+        unit: cup
+      - item: vanilla extract
+        amount: 2
+        unit: tsp
+    steps:
+      - Whip heavy whipping cream until it begins to thicken.
+      - Add powdered sugar and vanilla extract and whip until stiff peaks form.
+  - name: Berry topping
+    yield_unit: cup
+    ingredients:
+      - item: blueberries
+        amount: 1
+        unit: pint
+      - item: strawberries
+        amount: 1.5
+        unit: lbs
+    steps:
+      - Slice strawberries thin lengthwise.  Do this when stacking the cake so you only cut as much as you need.
+steps:
+  - To stack the cake, first remove the domes from the cakes with a large serrated knife.
+  - Then, use a small straw, or something similar, to poke holes in the top of each cake.
+  - Place the first layer of cake on your cake plate.
+  - Spread half of the strawberry puree over the cake, so that it soaks into the holes.
+  - Top cake with a layer of whipped cream. You’ll use about 2 cups of whipped cream per layer.
+  - Top the whipped cream with blueberries and sliced strawberries.
+  - Repeat with the second layer of cake using the blueberry puree, whipped cream and berries.
+  - Top the cake with the last layer of cake, using the other half of the strawberry puree, then spread with remaining whipped cream.
+  - Slice remaining strawberries for use on the top of the cake to make the flower.
+  - To make the flower, place slices of strawberries around the top edge of the cake, allowing the bottoms of the “petals” to touch. Make three rows of slices, overlapping them.
+  - Fill in the center of the flower with blueberries.
+  - Refrigerate cake until ready to use. Best if eaten within 2 days of making.
