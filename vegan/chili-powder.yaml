@@ -1,0 +1,30 @@
+name: Chili Powder (non-spicy)
+region: US
+ingredients:
+  - item: sweet paprika
+    unit: Tbsp
+    amount: 2
+  - item: smoked paprika
+    unit: Tbsp
+    amount: 1
+  - item: ground cumin
+    unit: Tbsp
+    amount: 2
+  - item: garlic powder
+    unit: Tbsp
+    amount: 1.5
+  - item: onion powder
+    unit: tsp
+    amount: 1
+  - item: dried oregano
+    unit: Tbsp
+    amount: 1
+  - item: ground coriander
+    unit: tsp
+    amount: 1
+  - item: ground cinnamon
+    unit: tsp
+    amount: 0.5
+steps:
+  - mix
+  - store for up to a year
