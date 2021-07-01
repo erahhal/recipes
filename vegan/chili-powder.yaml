@@ -25,6 +25,13 @@ ingredients:
   - item: ground cinnamon
     unit: tsp
     amount: 0.5
+optional:
+  - item: cocoa powder
+    unit: Tbsp
+    amount: 1
+  - item: ground cayenne
+    unit: tsp
+    amount: 0.5
 steps:
   - mix
   - store for up to a year
