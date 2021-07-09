@@ -1,0 +1,39 @@
+name: One For The Money
+source:
+  url: https://bojongourmet.com/one-for-money-cocktail-cocchi-americano/
+components:
+  - name: cardamom saffron tincture
+    ingredients:
+      - item: green cardamom pods, cracked
+        unit: Tbsp
+        amount: 1
+      - item: saffron threads
+        unit: large pinch
+        amount: 1
+        unit_alt: tsp
+        amount_alt: 1/4
+      - item: Everclear (or other high-proof alcohol)
+        unit: cup
+        amount: 1/4
+    steps:
+      - Combine the cardamom pods, saffron, and Everclear in a small jar and let sit for at least 24 hours and preferably 3-5 days.
+      - Strain. Pour into a bottle with a dropper.
+      - The tincture should keep indefinitely
+ingredients:
+  - item: Cocchi Americano
+    amount: 1
+    unit: Oz
+  - item: St. Germain elderflower liquer
+    amount: 0.5
+    unit: Oz
+  - item: lemon juice
+    amount: 0.5
+    unit: Oz
+  - item: ice
+  - item: prosecco
+  - item: grapefruit peel
+steps:
+  - Combine the Cocchi, St. Germain and lemon juice in a glass or cocktail shaker filled with ice.
+  - Stir for a few seconds to combine and chill it down, then strain into a tumbler filled with ice (it should fill the glass about two-thirds of the way).
+  - Add about 10 drops of tincture (more or less depending on how much spice you want) and top with prosecco and a twist of grapefruit peel.
+  - Stir again and enjoy
