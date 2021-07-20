@@ -1,0 +1,42 @@
+name: Baked Portabello Mushrooms
+region: US
+source:
+  url: https://www.carolinescooking.com/baked-portobello-mushrooms/
+ingredients:
+  - item: portobello mushrooms
+    unit: lbs
+    amount: 3/4
+  - item: garlic
+    unit: clove
+    amount: 1
+  - item: extra virgin olive oil
+    unit: Tbsp
+    amount: 2.5
+  - item: salt
+    amount: to taste
+  - item: pepper
+    amount: to taste
+  - item: dried thyme
+    unit: tsp
+    amount: 1/2
+  - item: vegan parmesan, grated
+    unit: Tbsp
+    amount: 1
+  - item: vegan mozzarella, grated
+    unit: Tbsp
+    amount: 3
+substitutions:
+  - item: vegan cashew kefir cheese, like Treeline
+    replaces: other cheeses
+    unit: Tbsp
+    amount: 4
+steps:
+  - Preheat oven to 400°F/200C.
+  - Wipe (do not wash) the portobello mushrooms clean with paper towls and remove the stems.
+  - Finely chop or mince the garlic.
+  - Lightly oil a baking dish or baking sheet and put the mushrooms on top in a single layer, open side up.
+  - In a small bowl, mix together the oil, garlic, thyme, and a little salt and pepper. Divide the mixture between the mushrooms, drizzling over the inside.
+  - Bake the mushrooms for around 15 minutes until tender.
+  - While they are cooking, mix together the cheeses. After the 15 min, top the mushrooms with the cheese and return to the oven for around 5 minutes until the cheese is melted and gently golden.
+notes:
+  - 1 mushroom per person as a side, 2-3 as a main
