@@ -15,11 +15,16 @@ ingredients:
     amount: 1
     unit: Oz
   - item: angostura bitters
-    amount: 3
+    amount: 3-5
     unit: drops
   - item: ice
+optional:
+  - item: elderflower liquor
+    amount: 0.5
+    unit: Oz
 steps:
   - Measure out your ingredients
   - Place ingredients in a shaker with your ice and shake vigorously
   - Alternatively, If you do not have a shaker, use a blender and blend with ice, note the consistency will change with the blended ice
   - Serve in your martini/old-fashioned glass and garnish with 3 drops of Angostura bitters and enjoy!
+  - Alternative two - mix aquafaba in bowl with electric mixer, 5 minutes.  Put 2 Tbsp in shaker, and 2 Tbsp on top of drink
