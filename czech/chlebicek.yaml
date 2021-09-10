@@ -1,0 +1,82 @@
+name: Chlebicek (Obložené Chlebíčky)
+region: Czech
+components:
+  - name: version 1
+    ingredients:
+      - item: baguette
+        amount: 4
+        unit: slice
+      - item: vegan butter
+        amount: 3
+        unit: Tbsp
+      - item: fried vegan egg, sliced
+        amount: 1
+        unit: "egg"
+      - item: large sweet pickle, sliced
+        amount: 1
+      - item: cherry tomatoes, cut in half
+        amount: 2
+      - item: parsley, finely chopped
+        amount: to taste
+  - name: version 2
+    ingredients:
+      - item: baguette
+        amount: 4
+        unit: slice
+      - item: horseradish
+        amount: 1
+        unit: Oz
+      - item: vegan hard cheese
+        amount: 4
+        unit: thin slice
+      - item: olives
+      - item: red pepper slices
+      - item: chives, finely chopped
+  - name: version 3
+    ingredients:
+      - item: baguette
+        amount: 4
+        unit: slice
+      - item: vegan mayo
+        amount: 1
+        unit: Tbsp
+      - item: fried vegan egg, grated
+        amount: 1
+        unit: "egg"
+      - item: vegan ham
+        amount: 2
+        unit: slices
+  - name: version 4
+    ingredients:
+      - item: baguette
+        amount: 4
+        unit: slice
+      - item: vegan mayo
+        amount: 1
+        unit: Tbsp
+      - item: fried vegan egg, sliced
+        amount: 2
+        unit: "egg"
+      - item: small firm tomato, sliced
+        amount: 1
+      - item: red onion, sliced
+        amount: 1/2
+      - item: olives
+        amount: 4
+      - item: parsley, roughly chopped
+  - name: Other toppings
+    ingredients:
+      - item: potato salad
+      - item: vegan salami
+      - item: vegan pastrami
+      - item: vegan pepperoni
+      - item: vegan cream cheese
+      - item: sour pickle
+      - item: paprika
+steps:
+  - Diagonally sliced french bread
+  - Spread potato salad on bread
+  - Half cured paprika meat
+  - Half thin slice of boiled egg
+  - Half baby kosher pickle thinly sliced in middle
+  - Dollop of mayo on pickle

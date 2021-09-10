@@ -1,0 +1,25 @@
+name: Vegan Pisco Sour
+source:
+  url: https://plantbasedinca.com/vegan-pisco-sour-%F0%9F%87%B5%F0%9F%87%AA/
+ingredients:
+  - item: Pisco
+    amount: 2
+    unit: Oz
+  - item: Simple Syrup
+    amount: 1
+    unit: Oz
+  - item: lime juice
+    amount: 1
+    unit: Oz
+  - item: aquafaba (chickpea water)
+    amount: 1
+    unit: Oz
+  - item: angostura bitters
+    amount: 3
+    unit: drops
+  - item: ice
+steps:
+  - Measure out your ingredients
+  - Place ingredients in a shaker with your ice and shake vigorously
+  - Alternatively, If you do not have a shaker, use a blender and blend with ice, note the consistency will change with the blended ice
+  - Serve in your martini/old-fashioned glass and garnish with 3 drops of Angostura bitters and enjoy!
