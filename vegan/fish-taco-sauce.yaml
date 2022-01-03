@@ -1,0 +1,51 @@
+name: Fish Taco Sauce
+region: Mexico
+ingredients:
+  - item: vegan source cream (Kite hill - thick; Forager - thin)
+    unit: cup
+    amount: 0.5
+  - item: vegan mayonnaise (Preferably avocado oil based)
+    unit: cup
+    amount: 0.5
+  - item: lime juice
+    unit: lime
+    amount: 1
+  - item: cumin
+    unit: tsp
+    amount: 0.5
+  - item: ground coriander
+    unit: tsp
+    amount: 0.5
+  - item: dill
+    unit: tsp
+    amount: 0.5
+  - item: oregano
+    unit: tsp
+    amount: 0.5
+  - item: garlic powder
+    unit: tsp
+    amount: 0.5
+  - item: onion powder
+    unit: tsp
+    amount: 0.5
+optional:
+  - item: smoked paprika
+    unit: tsp
+    amount: 0.5
+  - item: chipotle chili powder
+    unit: tsp
+    amount: 0.25
+  - item: tabasco
+    unit: tsp
+    amount: 1
+  - item: capers, minced
+    unit: tsp
+    amount: 0.5
+  - item: more garlic powder
+    unit: tsp
+    amount: 0.5
+  - item: cilantro, chopped
+    unit: Tbsp
+    amount: 1
+steps:
+  - Mix all ingredients in a bowl with a whisker
