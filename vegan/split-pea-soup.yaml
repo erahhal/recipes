@@ -1,0 +1,49 @@
+name: Split Pea Soup
+region: US
+source:
+  url: https://www.allrecipes.com/recipe/16217/vegan-split-pea-soup-i/
+ingredients:
+  - item: avocado oil
+    amount: 1
+    unit: Tbsp
+  - item: onion, chopped
+    amount: 1
+  - item: bay leaf
+    amount: 1
+  - item: garlic, minced
+    amount: 3
+    unit: clove
+  - item: dried split peas
+    amount: 2
+    unit: cup
+  - item: barley
+    amount: 0.5
+    unit: cup
+  - item: salt
+    amount: 1.5
+    unit: tsp
+  - item: water
+    amount: 7.5
+    unit: cup
+  - item: carrots, chopped
+    amount: 3
+  - item: celery, chopped
+    amount: 3
+    unit: stalk
+  - item: potatoes, diced
+    amount: 3
+  - item: parsley, chopped
+    amount: 0.5
+    unit: cup
+  - item: dried basil
+    amount: 0.5
+    unit: tsp
+  - item: dried thyme
+    amount: 0.5
+    unit: tsp
+  - item: ground black pepper
+    amount: 0.5
+    unit: tsp
+steps:
+  - In a large pot over medium high heat, saute the oil, onion, bay leaf and garlic for 5 minutes, or until onions are translucent. Add the peas, barley, salt and water. Bring to a boil and reduce heat to low. Simmer for 2 hours, stirring occasionally.
+  - Add the carrots, celery, potatoes, parsley, basil, thyme and ground black pepper. Simmer for another hour, or until the peas and vegetables are tender.
