@@ -1,0 +1,82 @@
+name: Gong Bao Ji Ding (Vegan Kung Pao Chicken)
+region: Sichuan
+source:
+  url: https://www.seriouseats.com/gong-bao-ji-ding-sichuan-kung-pow-chicken-recipe
+components:
+  - name: Chicken
+    ingredients:
+      - item: vegan chicken, cut into 1/2 inch cubes
+        amount: 16
+        unit: Oz
+      - item: light soy sauce
+        amount: 1
+        unit: Tbsp
+      - item: cornstarch
+        amount: 1
+        unit: Tbsp
+      - item: Shaoxing wine
+        amount: 1.5
+        unit: tsp
+      - item: kosher salt
+        amount: 1
+        unit: large pinch
+    steps:
+      - Combine chicken, soy sauce, cornstarch, wine, and salt in a small bowl
+      - Turn until well mixed and chicken is evenly coated in a thin film of the cornstarch paste
+  - name: Sauce
+    ingredients:
+      - item: Chinkiang vinegar
+        amount: 3.5
+        unit: Tbsp
+      - item: vegan honey replacement
+        amount: 2.5
+        unit: Tbsp
+      - item: Shaoxing wine
+        amount: 1.5
+        unit: Tbsp
+      - item: light soy sauce
+        amount: 2.5
+        unit: tsp
+      - item: cornstarch
+        amount: 2/3
+        unit: tsp
+      - item: vegetable broth
+        amount: 1/3
+        unit: cup
+    steps:
+      - Combine vinegar, honey, wine, soy sauce, and cornstarch in a small bowl.
+      - Stir together with a fork until no clumps of cornstarch remain.
+ingredients:
+  - item: Avocado oil
+    amount: 4
+    unit: Tbsp
+  - item:  small dried red chilies (such as árbol), stems removed, cut into 1/2-inch pieces with scissors, seeds discarded
+    amount: 8-16
+  - item: Sichuan peppercorns, reddish husks only (stems and black seeds discarded)
+    amount: 1.5
+    unit: tsp
+  - item: pickled garlic, thinly sliced
+    amount: 6
+    unit: clove
+  - item: ginger, peeled and cut into fine matchsticks or grated
+    amount: 1.5
+    unit: inch knob
+  - item: medium scallions, white and pale green parts only, cut into 1/2-inch pieces
+    amount: 8
+  - item: roasted peanuts
+    amount: 1
+    unit: cup
+substitutions:
+  - item: mini bell peppers, seeds removed, sliced into small pieces
+    amount: 6
+    replaces: red chilies
+steps:
+  - Pour a small amount of oil into the bottom of a large wok or skillet and rub around with a paper towel.
+  - Place over high heat and preheat until smoking.
+  - Add remaining oil and immediately add chiles and Sichuan peppercorns.
+  - Stir-fry until fragrant but not burnt, about 5 seconds.
+  - Immediately add vegan chicken and stir-fry until starting to brown, 45 seconds to 1 1/2 minutes.
+  - Add garlic and ginger and stir-fry until fragrant, about 10 seconds.
+  - Add scallions and peanuts and stir-fry for 30 seconds.
+  - Add sauce and stir-fry until all the ingredients are coated evenly and the chicken is cooked through, about 1 minute, adding water 1 tablespoon at a time if necessary to keep the sauce from clumping.
+  - Serve immediately with steamed white rice.
