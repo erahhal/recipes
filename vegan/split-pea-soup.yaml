@@ -36,14 +36,20 @@ ingredients:
     amount: 0.5
     unit: cup
   - item: dried basil
-    amount: 0.5
+    amount: 1
     unit: tsp
   - item: dried thyme
-    amount: 0.5
+    amount: 1
     unit: tsp
   - item: ground black pepper
-    amount: 0.5
+    amount: 1
     unit: tsp
 steps:
   - In a large pot over medium high heat, saute the oil, onion, bay leaf and garlic for 5 minutes, or until onions are translucent. Add the peas, barley, salt and water. Bring to a boil and reduce heat to low. Simmer for 2 hours, stirring occasionally.
   - Add the carrots, celery, potatoes, parsley, basil, thyme and ground black pepper. Simmer for another hour, or until the peas and vegetables are tender.
+notes:
+  - Can add 2-5 more cups of water for a thinner soup
+  - Can cook in crock-pot.  Make sure to add at least 2 more cups of water.  Just put all ingredients at once and cook on high for 2.5h.
+  - Serve with croutons and a few splashes of red wine vinegar
+  - Pressure cooker: Cook for 20-30 minutes after first steam release
+  - Can use all broth and/or add bouillon
