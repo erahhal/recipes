@@ -1,0 +1,116 @@
+name: Vegan Yaki Udon
+region: Japanese
+source:
+  url: https://www.lazycatkitchen.com/vegan-yaki-udon/
+components:
+  - name: Sauce
+    ingredients:
+      - item: ketchup
+        amount: 2
+        unit: Tbsp
+      - item: vegan Worcester sauce
+        amount: 2
+        unit: Tbsp
+      - item: soy sauce (or tamari for gluten-free)
+        amount: 3
+        unit: Tbsp
+      - item: mirin
+        amount: 3
+        unit: Tbsp
+      - item: coconut or other sugar
+        amount: 2
+        unit: tsp
+      - item: toasted sesame oil
+        amount: 2
+        unit: tsp
+      - item: garlic clove, finely grated
+        amount: 1
+      - item: ginger, finely grated
+        amount: 1
+        unit: tsp
+      - item: nutritional yeast
+        amount: 1
+        unit: Tbsp
+      - item: dried shiitake mushroom, finely grated and sifted (optional)
+        amount: 1
+    steps:
+      - Mix all sauce ingredients in a small bowl and set aside to infuse.
+  - name: Protein (optional)
+    ingredients:
+      - item: Abbot's Plant-based Ground Beef
+        amount: 1
+        unit: package
+      - item: diced kimche
+        amount: 3
+        unit: Oz
+      - item: gojuchang
+        amount: 1.5
+        unit: Tbsp
+      - item: doubanjiang
+        amount: 1.5
+        unit: Tbsp
+      - item: garlic powdwer
+        amount: 1.5
+        unit: tsp
+      - item: onion powder
+        amount: 1
+        unit: tsp
+ingredients:
+  - item: fresh shiitake or chestnut mushrooms, sliced thickly
+    amount: 100
+    unit: g
+  - item: large broccoli, divided into bite-sized pieces
+    amount: 1/2
+  - item: small pak choi / bok choi, stems cut into thick slices
+    amount: 2
+  - item: bell pepper, sliced thinly
+    amount: 1/2
+  - item: carrot, cut into matchsticks
+    amount: 1
+  - item: spring onions / scallions
+    amount: 3
+  - item: high smoke point oil (rice bran recommended)
+    amount: 4
+    unit: tsp
+  - item: precooked udon noodles (or 200 g dry)
+    amount: 400
+    unit: g
+  - item: toasted sesame seeds, for garnish
+    amount: 1
+    unit: Tbsp
+optional:
+  components:
+    - name: Protein (optional)
+      ingredients:
+        - item: Abbot's Plant-based Ground Beef
+          amount: 1
+          unit: package
+        - item: diced kimche
+          amount: 3
+          unit: Oz
+        - item: gojuchang
+          amount: 1.5
+          unit: Tbsp
+        - item: doubanjiang
+          amount: 1.5
+          unit: Tbsp
+        - item: garlic powdwer
+          amount: 1.5
+          unit: tsp
+        - item: onion powder
+          amount: 1
+          unit: tsp
+  ingredients:
+    - item: diced tomatoes
+      amount: 1
+      unit: cup
+    - item: shelled edamame
+      amount: 1
+      unit: cup
+steps:
+  - Heat wok on medium heat until smoking. Add 2 tsp oil and allow it to shimmer.
+  - Add mushrooms and stir-fry for one minute, then add broccoli and stir-fry for two more minutes.
+  - Push vegetables aside, add another 2 tsp oil, then add pak choi stems, pepper, carrot, and spring onions. Stir-fry for two minutes, then add pak choi leaves to wilt.
+  - Push vegetables to the side, add sauce to the wok bottom, let it bubble briefly, then add noodles.
+  - Gently mix noodles into sauce, allowing precooked noodles to soften and unravel. Mix thoroughly until fully cooked.
+  - Divide between bowls and top with sesame seeds.
