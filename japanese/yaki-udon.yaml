@@ -35,26 +35,6 @@ components:
         amount: 1
     steps:
       - Mix all sauce ingredients in a small bowl and set aside to infuse.
-  - name: Protein (optional)
-    ingredients:
-      - item: Abbot's Plant-based Ground Beef
-        amount: 1
-        unit: package
-      - item: diced kimche
-        amount: 3
-        unit: Oz
-      - item: gojuchang
-        amount: 1.5
-        unit: Tbsp
-      - item: doubanjiang
-        amount: 1.5
-        unit: Tbsp
-      - item: garlic powdwer
-        amount: 1.5
-        unit: tsp
-      - item: onion powder
-        amount: 1
-        unit: tsp
 ingredients:
   - item: fresh shiitake or chestnut mushrooms, sliced thickly
     amount: 100
@@ -80,7 +60,7 @@ ingredients:
     unit: Tbsp
 optional:
   components:
-    - name: Protein (optional)
+    - name: Protein
       ingredients:
         - item: Abbot's Plant-based Ground Beef
           amount: 1
@@ -109,6 +89,7 @@ optional:
       unit: cup
 steps:
   - Heat wok on medium heat until smoking. Add 2 tsp oil and allow it to shimmer.
+  - optional: mix all components for protein and cook for a couple minutes
   - Add mushrooms and stir-fry for one minute, then add broccoli and stir-fry for two more minutes.
   - Push vegetables aside, add another 2 tsp oil, then add pak choi stems, pepper, carrot, and spring onions. Stir-fry for two minutes, then add pak choi leaves to wilt.
   - Push vegetables to the side, add sauce to the wok bottom, let it bubble briefly, then add noodles.
