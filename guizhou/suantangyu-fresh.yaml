@@ -16,7 +16,7 @@ components:
       - bring down to a low simmer, 30-60 minutes
       - filter into a bowl to get rid of skins
 ingredients:
-  - item: snakehead fish
+  - item: banana blossom or lion's mane mushroom, torn into chunks
     amount: 1.5-2
     unit: lbs
   - item: firm tofu
@@ -72,11 +72,11 @@ ingredients:
   - item: salt
     amount: 5
     unit: g
-  - item: chicken boullion
+  - item: vegetable bouillon
     amount: 5
     unit: g
 steps:
-  - Optional: chop fish into large pieces
+  - Optional: tear banana blossom or mushroom into large pieces
   - Put oil into large pot and heat
   - Put all ingredients in except soup base, mint, and cilantro
   - Stir fry for a few minutes

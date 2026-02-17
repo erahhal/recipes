@@ -43,7 +43,7 @@ components:
       - Seal and store in a cool place for 15 to 30 days
       - Blend in a blender
 ingredients:
-  - item: snakehead fish
+  - item: banana blossom or lion's mane mushroom, torn into chunks
     amount: 1.5-2
     unit: lbs
   - item: firm tofu
@@ -84,7 +84,7 @@ ingredients:
     amount_alt: 50
     unit_alt: g
 steps:
-  - Optional: chop fish into large pieces
+  - Optional: tear banana blossom or mushroom into large pieces
   - Put oil into large pot and heat
   - Put all ingredients in except soup base, mint, and cilantro
   - Stir fry for a few minutes

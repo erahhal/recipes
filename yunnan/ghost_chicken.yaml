@@ -5,11 +5,9 @@ ethnicity: Dai
 source:
   url: https://www.nicolemones.com/food-lovers/recipes/recipes-from-yunnan/
 ingredients:
-  - item: chicken breast
-    amount: 2
-    unit: piece
-    amount_alt: 1.5
-    unit_alt: lbs
+  - item: king oyster mushrooms or soy curls
+    amount: 1.5
+    unit: lbs
   - item: lime juice
     amount: 1.5
     unit: tsp
@@ -40,7 +38,7 @@ ingredients:
     amount: 1
     unit: cup
 steps:
-  - Steam chicken.
-  - When cool enough, coarsely shred and discard skin and bones.
-  - Stir together all other ingredients except salt, adding up to 2 Tbsp steaming liquid from chicken if it seems needed.
-  - Dress the chicken, add the salt gradually to taste, and toss with cilantro sprigs just before serving.
+  - Steam king oyster mushrooms (or rehydrate soy curls per package directions).
+  - When cool enough, coarsely shred into strips.
+  - Stir together all other ingredients except salt, adding up to 2 Tbsp steaming liquid if it seems needed.
+  - Dress the mushrooms, add the salt gradually to taste, and toss with cilantro sprigs just before serving.
